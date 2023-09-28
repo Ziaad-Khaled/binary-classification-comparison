@@ -1,5 +1,4 @@
-# binary-classification-comparison
-# Machine Learning Classification Project
+# Binary Classification Comparison
 
 ## Overview
 
